@@ -5,6 +5,8 @@ This is a sample project which showcases two strategies for displaying dynamic i
 - linear gradients
 - blurhashes
 
+![App preview GIF](./screenshots/preview.gif)
+
 ## Prerequisites
 
 You must have set up iOS/Android development environment with React Native.
